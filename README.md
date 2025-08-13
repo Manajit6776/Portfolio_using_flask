@@ -29,11 +29,9 @@ portfolio/
 - │ ├── navbar.html # Navigation bar
 - │ ├── footer.html # Footer
 - │ └── contact.html # Contact page
-- ├── static/
-- │ ├── css/
-- │ │ └── custom.css # Custom styles
--│ └── images/ # Project images/screenshots
--└── requirements.txt # Python dependencies
+- └── static/
+-     └── css/
+-           └── custom.css # Custom styles
 
 
 ## Installation
