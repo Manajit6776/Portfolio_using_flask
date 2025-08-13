@@ -19,21 +19,21 @@ A modern personal portfolio website built with Python Flask, Bulma CSS, and Jinj
 ## Project Structure
 
 portfolio/
-├── app.py # Main Flask application
-├── templates/
-│ ├── projects/ # Individual project pages
-│ │ ├── project1.html # BBC News Scraper
-│ │ └── project2.html # Sales Analysis
-│ ├── base.html # Base template
-│ ├── index.html # Home page
-│ ├── navbar.html # Navigation bar
-│ ├── footer.html # Footer
-│ └── contact.html # Contact page
-├── static/
-│ ├── css/
-│ │ └── custom.css # Custom styles
-│ └── images/ # Project images/screenshots
-└── requirements.txt # Python dependencies
+- ├── app.py # Main Flask application
+- ├── templates/
+- │ ├── projects/ # Individual project pages
+- │ │ ├── project1.html # BBC News Scraper
+- │ │ └── project2.html # Sales Analysis
+- │ ├── base.html # Base template
+- │ ├── index.html # Home page
+- │ ├── navbar.html # Navigation bar
+- │ ├── footer.html # Footer
+- │ └── contact.html # Contact page
+- ├── static/
+- │ ├── css/
+- │ │ └── custom.css # Custom styles
+-│ └── images/ # Project images/screenshots
+-└── requirements.txt # Python dependencies
 
 
 ## Installation
