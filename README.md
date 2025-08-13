@@ -43,15 +43,15 @@ portfolio/
    git clone [https://github.com/yourusername/portfolio-flask.git](https://github.com/Manajit6776/Portfolio_using_flask)
    cd portfolio-flask
 
-# create Virtual environment
+## create Virtual environment
 python -m venv env
 source venv/bin/activate  # On Windows use `env\Scripts\activate`
 
-# Install dependencies:
+## Install dependencies:
 `pip install -r requirements.txt`
 
-# Run the application:
+## Run the application:
 python app.py
 
-# Author
+## Author
 Manajit Mondal
