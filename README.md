@@ -30,8 +30,8 @@ portfolio/
 - │ ├── footer.html # Footer
 - │ └── contact.html # Contact page
 - └── static/
--     └── css/
--           └── custom.css # Custom styles
+- .    └── css/
+- .        └── custom.css # Custom styles
 
 
 ## Installation
